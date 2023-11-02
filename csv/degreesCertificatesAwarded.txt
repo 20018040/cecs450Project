@@ -1,0 +1,3 @@
+year,certificate,as,bachelor,PBbachelor,masters,pmCertificate,doctralResearch,doctoralProfPractice,doctoralOther
+2022,0,0,9302,0,1770,0,54,37,17
+2021,0,0,9063,0,1630,0,36,13,0

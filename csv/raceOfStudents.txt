@@ -1,0 +1,4 @@
+Year,nonResidents,hispanic,black,white,americanIndian,asian,nativeHawaiian,moreThanTwo,unknown
+2022,1791,18751,1357,5636,38,8206,83,1696,698,
+2021,2044,18198,1423,5955,34,8294,86,1658,778,
+2020
