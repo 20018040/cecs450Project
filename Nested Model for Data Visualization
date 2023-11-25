@@ -1,0 +1,18 @@
+
+Four Levels, three questions
+
+DOMAIN
+    -who are the target users?
+
+ABSTRACTION
+    -translate from specifics of domain to vocabulary of vis
+        WHAT is shown? data abstraction
+        WHY is the user looking at it? task abstraction
+
+IDIOM
+    -HOW is it shown?
+        visual encoding idiom: how to draw
+        interaction idiom: how to manipulate
+
+ALGORITHM
+    -efficient computation
